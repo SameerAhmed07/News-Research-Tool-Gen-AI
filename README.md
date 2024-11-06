@@ -1,9 +1,8 @@
 
-# RockyBot: News Research Tool 
+#  News Research Tool 
 
-RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+News Research Tool is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the News article.
 
-![](rockybot.jpg)
 
 ## Features
 
@@ -23,7 +22,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 2.Navigate to the project directory:
 
 ```bash
-  cd 2_news_research_tool_project
+  cd News-Research-Tool-Gen-AI
 ```
 3. Install the required dependencies using pip:
 
@@ -55,10 +54,7 @@ streamlit run main.py
 
 - The FAISS index will be saved in a local file path in pickle format for future use.
 - One can now ask a question and get the answer based on those news articles
-- In video tutorial, we used following news articles
-  - https://www.moneycontrol.com/news/business/tata-motors-mahindra-gain-certificates-for-production-linked-payouts-11281691.html
-  - https://www.moneycontrol.com/news/business/tata-motors-launches-punch-icng-price-starts-at-rs-7-1-lakh-11098751.html
-  - https://www.moneycontrol.com/news/business/stocks/buy-tata-motors-target-of-rs-743-kr-choksey-11080811.html
+
 
 ## Project Structure
 
